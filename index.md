@@ -4,4 +4,4 @@
 # Welcome to markdown
 # Welcome to markdown
 # Welcome to markdown
-<img src="https://octodex.github.com/images/yaktocat.png" alt="cat">
+<img src="https://octodex.github.com/images/yaktocat.png" alt="Image of Yaktocat">
